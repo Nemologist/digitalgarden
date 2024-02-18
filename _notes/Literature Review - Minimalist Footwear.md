@@ -74,8 +74,8 @@ Overall, this literature review was very successful for me. Nevertheless, I am d
 
 I am also surprised how high the baseline for running injuries is. Shouldn’t an animal that is a natural long-distance runner be a bit more sturdy? Anyways, stay tuned for the upcoming review of the world’s best artificial knee implants!
 
-[1] Altman AR, Davis IS. Prospective comparison of running injuries between shod and barefoot runners. Br J Sports Med. 2016 Apr;50(8):476-80. doi: 10.1136/bjsports-2014-094482 . Epub 2015 Jun 30. PMID: 26130697
+###### [1] Altman AR, Davis IS. Prospective comparison of running injuries between shod and barefoot runners. Br J Sports Med. 2016 Apr;50(8):476-80. doi: 10.1136/bjsports-2014-094482 . Epub 2015 Jun 30. PMID: 26130697
 
-[2] Fuller JT, Thewlis D, Buckley JD, Brown NA, Hamill J, Tsiros MD. Body Mass and Weekly Training Distance Influence the Pain and Injuries Experienced by Runners Using Minimalist Shoes: A Randomized Controlled Trial. Am J Sports Med. 2017 Apr;45(5):1162-1170. doi: 10.1177/0363546516682497. Epub 2017 Jan 27. PMID: 28129518.
+###### [2] Fuller JT, Thewlis D, Buckley JD, Brown NA, Hamill J, Tsiros MD. Body Mass and Weekly Training Distance Influence the Pain and Injuries Experienced by Runners Using Minimalist Shoes: A Randomized Controlled Trial. Am J Sports Med. 2017 Apr;45(5):1162-1170. doi: 10.1177/0363546516682497. Epub 2017 Jan 27. PMID: 28129518.
 
-[3] Ryan M, Elashi M, Newsham-West R, Taunton J. Examining injury risk and pain perception in runners using minimalist footwear. Br J Sports Med. 2014 Aug;48(16):1257-62. doi: 10.1136/bjsports-2012-092061. Epub 2013 Dec 19. PMID: 24357642.
+###### [3] Ryan M, Elashi M, Newsham-West R, Taunton J. Examining injury risk and pain perception in runners using minimalist footwear. Br J Sports Med. 2014 Aug;48(16):1257-62. doi: 10.1136/bjsports-2012-092061. Epub 2013 Dec 19. PMID: 24357642.
