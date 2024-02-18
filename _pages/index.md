@@ -5,13 +5,10 @@ id: home
 permalink: /
 ---
 
-# Welcome!
-
-
 <h2>Recent Posts</h2>
 
 <h3>Overview</h3>
-
+[[Your first note]]
 
 <strong>Recently updated notes</strong>
 
