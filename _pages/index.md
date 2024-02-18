@@ -19,9 +19,8 @@ permalink: /
 [[Your first note]]
 
 <h3>Overview1</h3>
-<div class="overview">
-  {% include your_markdown_file.md %}
-</div>
+{% include [[Your first note]] %}
+
 
 <strong>Recently updated notes</strong>
 
