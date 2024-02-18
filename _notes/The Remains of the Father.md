@@ -3,7 +3,7 @@ share: true
 title: The Remains of The Father
 origdate: 2021-04-25
 ---
-###### \[contains spoilers for “The Remains of the Day”]
+<sub>\[contains spoilers for “The Remains of the Day”]<\sub>
 
 On the surface, the plot of Kazuo Ishiguro’s novel “The Remains of the Day” seems quite clear. An aged butler named Stephens  takes a trip through mid-century England and thereby dives deep into his past.
 
