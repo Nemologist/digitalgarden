@@ -16,7 +16,7 @@ permalink: /
 </ul>
 
 <h3>Overview</h3>
-[[Your first note]]
+[[Overview]]
 
 
 
