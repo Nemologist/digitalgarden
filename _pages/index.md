@@ -15,13 +15,15 @@ permalink: /
   {% endfor %}
 </ul>
 
-<h3>Overview</h3>
-[[Your first note]]
-
-<h3>Overview</h3>
+<h3>Overview1</h3>
 <div class="overview">
   {% include [[Your first note]] %}
 </div>
+
+<h3>Overview</h3>
+[[Your first note]]
+
+
 
 <strong>Recently updated notes</strong>
 
