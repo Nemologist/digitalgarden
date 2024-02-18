@@ -6,7 +6,7 @@ I am currently listening to “The Name of The Rose” by Umberto Eco, a histori
 
 I.
 
-It was hard to find reliable data on historical figures, especially data that easily lends itself to comparison over time. The best I dug up was Wikipedia’s “List of the Multilingual Presidents of the United States” [1], which reaches back into the 18th century and seems pretty comprehensive. From this, I created the following graph using only the languages in which the men were fluent (*). This is because I think reporting on fragmentary language skills becomes more unreliable as we go back in time.
+It was hard to find reliable data on historical figures, especially data that easily lends itself to comparison over time. The best I dug up was Wikipedia’s “List of the Multilingual Presidents of the United States” [1], which reaches back into the 18th century and seems pretty comprehensive. From this, I created the following graph using only the languages in which the men were fluent \*. This is because I think reporting on fragmentary language skills becomes more unreliable as we go back in time.
 
 ![us-presidents.png](../images/obsidian/us-presidents.png)
 ###### Number of foreign languages spoken by us presidents
@@ -24,7 +24,7 @@ In the search for a reason that could explain this dramatic decline, I found thi
 
 It is noteworthy that this article was published a month before the United States entered World War I, and was well on its way to become the world’s dominant economic power. To keep the wheels from grinding to a halt, the country needed more skilled laborers and, increasingly, white-color professionals. That could not have been possible without opening the universities to students who were not raised as part of the elite.
 
-![](https://nemology.org/wp-content/uploads/2021/04/United_States_Bachelors_and_Masters_degrees_per_Year_1870-2017-1.png)
+![languagegraph.png](../images/obsidian/languagegraph.png)
 
 This graph, which I took from here [3], demonstrates this impressively.
 
@@ -32,7 +32,7 @@ III.
 
 All in all, while I think this analysis produced some valuable insights, it is lacking in a lot of places. When I started researching, I wanted to focus on the European upper classes, because their lines are longer and  it related to better to the literature figures that inspired this post. This attempt was stopped by my failure to find any kind of useable data and so I had to fall back on using data from the US.  Americans might not be so interested in learning foreign languages, but at least, they keep their Wikipedia articles up to date.
 
-* I also chose to include Martin Van Buren’s who spoke Dutch, however, he learned it as a first language
+\* I also chose to include Martin Van Buren’s who spoke Dutch, however, he learned it as a first language
 
 Sources
 
