@@ -8,7 +8,7 @@ permalink: /
 <h2>Recent Posts</h2>
 
 <h3>Overview</h3>
-[[Your first note]]
+![[Your first note]]
 
 <strong>Recently updated notes</strong>
 
