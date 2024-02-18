@@ -18,6 +18,11 @@ permalink: /
 <h3>Overview</h3>
 [[Your first note]]
 
+<h3>Overview</h3>
+<div class="overview">
+  {% include [[Your first note]] %}
+</div>
+
 <strong>Recently updated notes</strong>
 
 <ul>
