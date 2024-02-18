@@ -12,17 +12,12 @@ permalink: /
     <li>
       {{ note.origdate | origdate: "%Y-%m-%d" }} — <a class="internal-link" href="{{ site.baseurl }}{{ note.url }}">{{ note.title }}</a>
     </li>
-    <!--{% include note %}-->
   {% endfor %}
 </ul>
 
 <h3>Overview</h3>
 [[Your first note]]
 
-<!--
-<h3>Overview1</h3>
-{% include [[Your first note]] %}
--->
 
 
 
