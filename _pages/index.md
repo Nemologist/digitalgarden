@@ -4,7 +4,7 @@ title: Home
 id: home
 permalink: /
 ---
-567567567657
+1
 <h2>Recent Posts</h2>
 <ul>
   {% assign recent_notes = site.notes | sort: "origdate" | reverse %}
