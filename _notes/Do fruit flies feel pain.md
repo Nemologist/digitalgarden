@@ -2,11 +2,11 @@
 share: true
 title: Do fruit flies feel pain?
 origdate: 2021-03-21
----
----
-share: True
-title: Do fruit flies feel pain?
-origdate: 2021-03-21
+maintag:
+  - science
+tags:
+  - suffering
+  - insects
 ---
 Implicitly, we are often assuming a ladder of consciousness where humans stand at the top and rocks lie at the bottom. The higher an organism is positioned, the more we care about how much it suffers. Directly below humans are the great apes (“human monkeys” in German). In the European Union, it is mostly illegal to experiment on them and lots of people would want them to have a limited set of rights. Climbing down the ladder, we soon reach other large mammals, such as elephants, dogs and pigs. It is generally okay to kill them in large shacks built for that purpose, even though people get upset when somebody butchers a dog on his front lawn. Descending a few steps, we now reach a spot, where it is unlawful to torture mice for no reason, but setting a glue trap to slowly starve them to death is totally fine (only recently some jurisdictions have decided to ban this practice). Below that, ethics stop. The idea that insects or snails have even a modicum of consciousness almost never comes up. But is this sensible? This essay will explore how much we know about insect suffering taking the common fruit fly as an example because this animal is extremely well documented in the literature and most people interact with it frequently. Among my primary sources are these two excellent articles by Shelley Adamo \[1]  \[2].
 
