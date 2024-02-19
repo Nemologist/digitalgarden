@@ -2,6 +2,8 @@
 share: true
 title: How to do a research project
 origdate: 2021-09-04
+maintag:
+  - productivity
 ---
 
 This fall, I have taken up an exciting new opportunity to work on a research project of my own. It will involve machine learning and medicine and will be exceptionally awesome. The ultimate goal is to produce a paper at the end, which would be even more awesome. In the past, I have worked on several projects of that type and, while most of them have been quite a bit of fun and I have learned a lot, I always had the impression that I could do better. This post will be dedicated to analyzing my past mistakes, looking for ways to avoid them and searching for new experimental techniques to try.

@@ -2,6 +2,8 @@
 share: true
 title: Notes on SLEEP A Very Short Introduction
 origdate: 2021-07-29
+maintag:
+  - books
 ---
 I recently finished “_SLEEP A very short introduction_” by Steven W. Lockley and Russel G. Foster. It is part of the _A very short introduction_ series by Oxford University Press which tries to compress broad fields into short books for readers to get a general understanding of the matter. Because _SLEEP_ is arranged thematically, I will not write a normal review, but iterate through the points I found most interesting.
 

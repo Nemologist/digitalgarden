@@ -2,6 +2,10 @@
 share: true
 title: Gedanken zu Marcus Aurelius’ Selbstbetrachtungen
 origdate: 2021-11-28
+maintag:
+  - deutsch
+tags:
+  - Antiquity
 ---
 
 Marcus Aurelius war Kaiser Roms von 161 A.D. bis 180 A.D. Er war ein hochgebildeter Mann und regierte während einer relativ friedvollen Zeit, dennoch verbrachte er die letzten Jahre seines Lebens im Feldlager, wo er am 17.März 180 im heutigen Serbien verstarb. Sein postmortaler Ruhm begründet sich vor allem in seinen überlieferten Schriften. Er verfasste 12 Bücher, die im Deutschen meist unter dem Titel _Meditationen_ oder _Selbstbetrachtungen_ veröffentlich werden, in welchen er seine, aus der Stoa hervorgehende, Lebensphilosophie und Denkweise darlegt. Obwohl seit seinem Tod mehr als achtzehn Jahrhunderte vergangen sind, erfreut sich das Werk weiterhin großer Beliebtheit und wird auch in der heutigen Zeit rege diskutiert. Die zwölf Bücher bestehen aus durchnummerierten Gedanken, die in der Länge von einigen Worten bis zu mehren Seiten reichen. Das Niedergeschriebene ist sehr intim – Aurelius schreckt nicht vor brutalen Gedanken mit erbarmungslosen Folgerungen zurück.  In diesem Essay stelle ich die für mich persönlich eindrucksvollsten Passagen vor und schreibe meine Gedanken dazu nieder.

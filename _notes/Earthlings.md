@@ -2,6 +2,10 @@
 share: true
 title: Earthlings
 origdate: 2021-05-09
+maintag:
+  - misc
+tags:
+  - movie
 ---
 _Since we all inhabit the earth,  
 all of us are considered earthlings.  

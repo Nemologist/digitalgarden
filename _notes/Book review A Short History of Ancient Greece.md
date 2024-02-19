@@ -2,6 +2,10 @@
 share: true
 title: "Book review: A Short History of Ancient Greece"
 origdate: 2021-07-31
+tags:
+  - Antiquity
+maintag:
+  - books
 ---
 In an effort, to broaden my education, I want to read more non-fiction. _P.J. Rhodes_’ book _A short History of Ancient Greece_ seems like a good starting point to get insights in a field, I know next to nothing about. I will start by giving a summary of the content and then give my opinion on it.
 

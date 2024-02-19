@@ -2,6 +2,8 @@
 share: true
 title: The staple food diet
 origdate: 2021-05-22
+maintag:
+  - experiment
 ---
 
 ###### _\[I have no special knowledge of nutrition, food or weight loss. This diet is probably very unhealthy and might be straight out dangerous for some people. Please don’t take advice from this article.]_

@@ -2,6 +2,8 @@
 share: true
 title: Literature Review - Minimalist Footwear
 origdate: 2021-05-04
+maintag:
+  - science
 ---
 
 ###### _\[Disclaimer: I am not an expert in orthopedics, footwear, statistics, or, in fact, anything. Please don’t rely on this article for advice.]_
