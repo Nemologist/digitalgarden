@@ -2,6 +2,8 @@
 share: true
 origdate: 2021-12-07
 title: Of mice and men - Book review
+maintag:
+  - books
 ---
 
 _But Mousie, thou are no thy lane,  
