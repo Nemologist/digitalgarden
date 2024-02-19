@@ -2,6 +2,8 @@
 share: true
 title: The Remains of The Father
 origdate: 2021-04-25
+maintag:
+  - books
 ---
 ###### \[contains spoilers for “The Remains of the Day”]
 
