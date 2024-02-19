@@ -2,6 +2,10 @@
 share: true
 title: Are insects conscious?
 origdate: 2021-11-13
+tags:
+  - suffering
+maintag:
+  - science
 ---
 
 I recently discovered an intriguing publication investigating the intellectual faculties of ants. In “[Are Ants (Hymenoptera, formicidae) capable of self recognition?](http://www.journalofscience.net/showpdf/MjY4a2FsYWkxNDc4NTIzNjk=)” Marie-Claire and Roger Cammaerts claim that ants are able passing the mirror test – a technique intended to assess cognitive self-awareness in animals [1]. The animal is marked on its body with a coloured dot and put in front of a mirror. If the subject tries to investigate the spot on itself, that is seen as a sign of self-recognition. An animal that is unable to identify itself might assume the mirror image depicts a conspecific and could try to attack it or exhibit avoidance behavior. There is a long list of otherwise quite intelligent animals, such as rhesus macaques, grey parrots or cats, that have failed the test, so this result seems quite extraordinary. I found the methodology pretty sound, however, the journal is a bit dodgy and discussion has arisen about the legitimacy of the results (see for example the discussion on Wikipedia [here](https://en.wikipedia.org/wiki/Talk:Mirror_test#Ants) or [here](https://www.rifters.com/crawl/?p=6822) a blog entry by author and biologist Peter Watts). I have not found any attempt to replicate this exact experiment, so this is a bit of a dead-end. However, the paper got me thinking about whether insects might possess some form of consciousness. This article is dedicated to investigating this topic.
