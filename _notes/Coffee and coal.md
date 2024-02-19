@@ -2,6 +2,8 @@
 share: true
 title: Coffee and coal
 origdate: 2021-07-26
+maintag:
+  - science
 ---
 
 _Slime Mold Time Mold_ published an interesting article titled “[Higher than the Shoulders of Giants; Or, a Scientist’s History of Drugs](https://slimemoldtimemold.com/2021/04/19/higher-than-the-shoulders-of-giants-or-a-scientists-history-of-drugs/)”. I recommend reading it in full, but in case you don’t have the time, here is my summary.
