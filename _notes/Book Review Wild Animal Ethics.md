@@ -1,0 +1,63 @@
+---
+share: true
+title: "Book Review: Wild Animal Ethics"
+origdate: 2022-06-21
+maintag:
+  - books
+tags:
+  - ethics
+  - suffering
+  - animals
+---
+
+Having nothing to talk about can be awkward and is sometimes considered a social faux-pas. Even though countless books and websites exist that are dedicated solely to solving this seemingly inescapable issue, their suggestions range from the so-boring-it-hurts (e.g. weather) to so-explosive-you-might-get-hurt (e.g. covid mask policy). There seems to be a distinct shortage of conversation topics that encourage lively discussion without being so contentious that no side will admit to being wrong.
+
+To help my fellow socially clumsy brethren out of this dilemma, I want to propose a discussion topic that is so neglected that most people fail to see it as an issue at all. So did I until I read Kyle Johannsen’s _Wild Animal Ethics_ which discusses the question of whether we should intervene in nature to reduce the suffering of wild animals.
+
+**I**
+
+I enjoyed the book a great deal because it is concise, is structured very well and does not shy away from hard conclusions. Johannsen, who got his Ph.D. from Queen’s University in Canada and is currently an academic philosophy instructor, starts his argument by criticizing the common view that wild animals live generally happy and enjoyable lives. If we truly imagined what it would be like to live life as a wild animal, including the constant threat of predation and little protection from forces of nature, we would recoil in horror. One point that I wasn’t aware of and that stood out to me was that the diverse reproductive strategies employed by different species result in widely different average levels of suffering per animal. Even though wildlife documentaries focus mainly on K-strategists (small number of offspring with high life expectancy), the majority of animals are born to r-strategists (many children, most of who die early). The book mentions a study on meadow voles, 88% of which died in the first month after birth. The average animal does not live a long life full of ups and downs, it lives a very short life, crawling around hungrily before being eaten alive or starving painfully. From this line of thought, it could be inferred that there is net suffering in nature, which might create a moral obligation for humanity to do something about that.
+
+Johannsen then goes on to attack the claim that naturalness itself is valuable and, therefore, we should shy away from intervention. Here, he extensively draws on John Stuart Mill’s essay _On Nature_:
+
+_In sober truth, nearly all the things which men are hanged or imprisoned for doing to one another are nature’s every-day performances. Killing, the most criminal act recognized by human laws, Nature does once to every being that lives, and, in a large proportion of cases, after protracted tortures such as only the greatest monsters whom we read of ever purposely inflicted on their living fellow creatures. If, by an arbitrary reservation, we refuse to account anything murder but what abridges a certain term supposed to be allotted to human life, nature also does this to all but a small percentage of lives, and does it in all the modes, violent or insidious, in which the worst human beings take the lives of one another._
+
+Even though evolution has taught us to view green landscapes as aesthetic and visually pleasing, this is simply a biased view as no inherent “good” or “bad” exists in nature, it is only the consequences upon sentient beings that determine its moral worth.
+
+The author then goes on to discuss various claims stating that even if we assume animals are suffering, this does not create any moral obligation for us to help them. Some philosophers even argue that animals have a right to be alone. Johannsen’s main argument against this seems to rest on the case that there is no fundamental difference between human and animal suffering and that we would deem it morally wrong to ignore a stranger in pain even if we did not cause their suffering. This all made a lot of sense to me and, from a utilitarian point of view, it seems difficult to argue against some form of moral obligation towards wild animals.
+
+**II**
+
+To come back to my initial suggestion to use this topic as a social lubricant, I actually tried that with several groups and was mostly met with incredulity, bemusement and, in one case, barely suppressed anger.  One philosophy professor, to whom I explained the topic for 40 minutes, at the end still didn’t understand why the lives of wild animals are a morally relevant area of discussion at all.
+
+I encountered two main objections towards intervening in nature, both of which I want to discuss with the help of _Wild Animal Ethics._
+
+**III**
+
+The first objection is that we can not be sure that animals experience more suffering than pleasure, mainly because we can’t talk to them and because evolution has trained them to competently handle the dangers they face. I have to concede that the first point is difficult (or maybe impossible) to prove and that many large animals indeed live lives worth living, however, I find it difficult to imagine much happiness in the existence of a mouse that gets born, abandoned and then eaten, without experiencing any of the bonding or social interactions that we imagine might bring it joy. Even if there, on balance, exists more happiness than suffering in nature, especially among the r-strategists there will be countless animals for who the result of the calculation will come with a minus in front. Admittedly, helping these animals will be extremely difficult, Johannsen’s preferred solution, as far as I can tell, is to reduce the average number of offspring of r-strategists using gene editing, which sounds like science fiction given that we do not even understand our genome very well. A related criticism is that animals are well equipped to handle the dangers they face as nature might have trained them to deal with predators or other unpleasant situations. I want to attack this claim from a theoretical as well as an empirical point of view. Firstly, evolution only optimizes towards species survival and has no reason to “care” if the beings created by it are happy. If making an animal miserable increases its reproductive success, evolution will do so in a heartbeat. A study done on fig wasps found that 25% of males sustain fatal injuries during mate competition [1]. This can not be good for the individual animals, however, it makes evolutionary sense. Secondly, it has been repeatedly found that the threat of predation makes animals stressed and reduces their well-being. From the interestingly titled paper „The sensitive hare“ [2]:
+
+_In an experimental manipulation, we assigned wild-caught, pregnant hares to a control and a stressed group and held them in pens. Hares in the stressed group were exposed to a dog 1-2 min every other day before parturition to simulate high predation risk. At parturition, unsuccessful-stressed dams (those that failed to give birth to live young) and stressed dams had 837% and 214%, respectively, higher FCM_ [faecal cortisol metabolite] _concentrations than control dams. However, offspring from stressed dams were 37% lighter and 16% smaller than offspring from control dams. Increasing FCM concentration in dams caused the decline of offspring body mass [..]._
+
+There has also been a growing consensus that animals, possibly even invertebrates, can experience something analogous to PTSD. From [3]:
+
+_Exposure to a natural cue of predator danger (predator vocalizations), had enduring effects of at least 7 days duration involving both, a heightened sensitivity to predator danger (indicative of an enduring memory of fear), and elevated neural activation in both the amygdala and hippocampus – in wild birds (black-capped chickadees, Poecile atricapillus), exposed to natural environmental and social experiences in the 7 days following predator exposure. Our results demonstrate enduring effects on the brain and behaviour, meeting the criteria to be considered an animal model of PTSD – in a wild animal, which are of a nature and degree which can be anticipated could affect fecundity and survival in free-living wildlife._
+
+There are many more studies showing the same thing in different circumstances, see [4] for an overview.
+
+**IV**
+
+The second objection is what in _Wild Animal Ethics_ is called the “Intractability Fallacy”. Because the ecosystem is so complex, we can never predict the impact of our interventions, so these might do more harm than good. Reducing, for example, the number of mice that die in infancy might leave less food for foxes, which themselves might then starve to death. Johannsen argues that, if we truly accept that we can not foresee the consequences of our actions, they would be as likely to reduce suffering as to increase it and there is no moral reason to not intervene. Additionally, humans have conducted interventions for their own reasons for quite some time (such as vaccinating animals against rabies and eradicating screw flies, which lay eggs in live animals’ wounds) and denying the same interventions to animals to reduce their suffering seems absurd. For me, saying that we can never predict, even just a tiny bit, what consequences our actions will have on complex systems, falls victim to the fallacy of _[proving too much](https://en.wikipedia.org/wiki/Proving_too_much)_, which means that applying the same logic to other situations quickly becomes absurd. We do not know with 100% certainty that developing vaccines against Covid-19 might cause a new strain to evolve, which then might wipe out humanity. We can not even be sure that the child we save from drowning in a lake does not go on to become a brutal dictator, causing pain and anguish across the lands. But we can make educated guesses about the likelihood that our actions produce certain results and then act accordingly. Making decisions in situations of uncertainty is just a basic fact of life.
+
+I do agree that we should be extremely careful when considering interventions that influence the ecosystem to a large degree, but I think there are lots of unexplored ways that might reduce animal suffering by a great amount.
+
+**V**
+
+What did I learn from _Animal Ethics_? For once, the book made me aware of how much animals in nature suffer and how little attention the subject gets compared to other topics. I also realized that there are many possible interventions, such as vaccinations, that are firmly within our technological capabilities and might improve the lives of animals by a lot. Even though I am still skeptical about extreme measures, I do think that we have a moral obligation to, at least, reduce the worst and most (ecologically) pointless forms of suffering such as parasite infestations. I do agree with Johannsen’s conclusion that, given our current extreme uncertainty, our priorities should be on researching and measuring the levels of suffering and happiness in wild animals. Fortunately, this is the approach pursued by most wild animal welfare organizations. For example, the _Wild Animal Initiative_, which in 2021 received a 3,5 million dollar grant from Open Philanthrophy mainly supports scientists [studying wild animal interactions with nature and developing methods to improve monitoring](https://www.wildanimalinitiative.org/research-priorities).
+
+###### 1] Bean, D., & Cook, J. M. (2001). Male mating tactics and lethal combat in the nonpollinating fig wasp Sycoscapter australis. In Animal Behaviour (Vol. 62, Issue 3, pp. 535–542). Elsevier BV. https://doi.org/10.1006/anbe.2001.1779
+
+###### [2] Sheriff, M. J., Krebs, C. J., & Boonstra, R. (2009). The sensitive hare: sublethal effects of predator stress on reproduction in snowshoe hares. In Journal of Animal Ecology (Vol. 78, Issue 6, pp. 1249–1258). Wiley. [https://doi.org/10.1111/j.1365-2656.2009.01552.x](https://doi.org/10.1111/j.1365-2656.2009.01552.x)
+
+###### [3] Zanette, L.Y., Hobbs, E.C., Witterick, L.E. _et al._ Predator-induced fear causes PTSD-like changes in the brains and behaviour of wild animals. _Sci Rep_ **9,** 11474 (2019). [https://doi.org/10.1038/s41598-019-47684-6](https://doi.org/10.1038/s41598-019-47684-6)
+
+###### [4] Clinchy, M., Sheriff, M. J., & Zanette, L. Y. (2012). Predator-induced stress and the ecology of fear. In R. Boonstra (Ed.), Functional Ecology (Vol. 27, Issue 1, pp. 56–65). Wiley. https://doi.org/10.1111/1365-2435.12007
