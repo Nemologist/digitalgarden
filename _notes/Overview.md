@@ -5,11 +5,7 @@ origdate: 2021-01-01
 maintag:
   - other
 ---
-
-cccccccc
 ### Science
-
-
 
 
 | File                                                                                         | origdate          | tags                                        |
@@ -21,12 +17,8 @@ cccccccc
 | [Theories of willpower](./Theories%20of%20willpower.md)                                     | July 05, 2022     | \-                                          |
 
 
-
-
-
-
-
 ### Books
+
 | File                                                                                                                                                           | origdate          | tags                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---------------------------------------------------------- |
 | [Book review A Short History of Ancient Greece](./Book%20review%20A%20Short%20History%20of%20Ancient%20Greece.md)                                                       | July 31, 2021     | <ul><li>Antiquity</li></ul>                                |
@@ -41,6 +33,7 @@ cccccccc
 
 
 ### Experiments
+
 | File                                                                                                             | origdate          | tags |
 | ---------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
 | [The staple food diet](./The%20staple%20food%20diet.md)                                                           | May 22, 2021      | \-   |
@@ -53,12 +46,14 @@ cccccccc
 
 
 ### Productivity
+
 | File                                                                   | origdate           | tags |
 | ---------------------------------------------------------------------- | ------------------ | ---- |
 | [How to do a research project](./How%20to%20do%20a%20research%20project.md) | September 04, 2021 | \-   |
 
 
 ### Philosophy
+
 | File                                                                                                                                           | origdate           | tags |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- |
 | [Is Snacking morally wrong](./Is%20Snacking%20morally%20wrong.md)                                                                               | December 28, 2022  | \-   |
@@ -70,6 +65,7 @@ cccccccc
 
 
 ### Deutsch
+
 | File                                                                                                           | origdate          | tags                        |
 | -------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------- |
 | [Gedanken zu Marcus Aurelius’ Selbstbetrachtungen](./Gedanken%20zu%20Marcus%20Aurelius%E2%80%99%20Selbstbetrachtungen.md) | November 28, 2021 | <ul><li>Antiquity</li></ul> |
@@ -77,12 +73,14 @@ cccccccc
 
 
 ### Technology
+
 | File                                                                                                         | origdate           | tags                 |
 | ------------------------------------------------------------------------------------------------------------ | ------------------ | -------------------- |
 | [Paper review – AGI Safety From First Principles](./Paper%20review%20%E2%80%93%20AGI%20Safety%20From%20First%20Principles.md) | September 26, 2022 | <ul><li>ai</li></ul> |
 
 
 ### Miscellaneous
+
 | File                                                                                                           | origdate       | tags                    |
 | -------------------------------------------------------------------------------------------------------------- | -------------- | ----------------------- |
 | [Are our elites foreign language skills declining](./Are%20our%20elites%20foreign%20language%20skills%20declining.md) | April 15, 2021 | \-                      |
