@@ -1,0 +1,20 @@
+---
+share: true
+title: Is Snacking morally wrong?
+origdate: 2022-12-28
+maintag:
+  - philosophy
+---
+Like many people, I struggle with occasional overeating. Usually, I control my access to overly sweet and fatty foods by not buying them and therefore not having anything available when the cravings set in. This works well when I live by myself, however, the system breaks down once I am in a household that has snacks available. Currently, I am visiting my family, who happen to have a well-stocked pantry and in the last couple of days, in moments of weakness, I have saturated myself there. In the past, I have tried various methods to prevent such occurrences, never with great success. Now, while reading Derek Parfit’s _Reasons and Persons_ I have discovered another possible approach.
+
+Usually, we do not consider actions that benefit us now but will cause harm to ourselves in the future as moral matters at all. Instead, we call them words like _irrational_ or _stupid_. We reserve the area of morality for interpersonal actions, such as ones that benefit _me_ now, but will harm _someone else_ in the future An example would be throwing your trash into a local river, which saves you the labor and cost of bringing it to a recycling plant, but will threaten wildlife and jeopardize the health of people swimming there. The reason for that is that most of us believe in the _unity of life_, which means that future-me, who will suffer from the consequences of some action will still be the current-me, who performs that action.
+
+Parfit challenges this view. He advocates Reductionism, a philosophical idea that states that personal identity is just continued psychological connectedness and there is no _further (metaphysical) fact_ which determines that I am still going to be me 50 years in the future. This means, that whether two “persons” are the same “person” is a matter of degree. Current-me is very close physically and psychologically to myself 10 minutes into the future, however, in 50 years “I” might have changed my appearance completely, my brain structure might have been altered due to aging and my personality might have completely changed. The physical and psychological connectedness between these two versions of me is then very weak and it might make sense to regard future-me as a wholly different person.
+
+What implications does this have? If future-me is someone else, harming him would be morally wrong, even if he does not exist yet. This is a similar argument that is sometimes used in relation to climate change, where our current policies are criticized because the majority of the burden of a changing climate will have to be carried by future generations who have not yet been born and can not vote.
+
+From _Reasons and Persons_:  
+_Reconsider a boy who starts to smoke, knowing and hardly caring that this may cause him to suffer greatly fifty years later. This boy does not identify with his future self. His attitude towards this future self is in some ways like his attitude to other people. This analogy makes it easier to believe that his act is morally wrong. He runs the risk of imposing on himself a premature and painful death. We should claim that it is wrong to impose on anyone, including such a future self, the risk of such a death. More generally, we should claim that great imprudence is morally wrong. We ought not to do to our future selves what it would be wrong to do to other people._
+
+To come back to the subject of delicious snacks, future-me would (hopefully) want me to enjoy myself a little bit and not subsist on unsalted potatoes alone, but would certainly not want me to overindulge and threaten his health. This is also applicable to other areas, like failing to work hard, not exercising enough and not going to the doctor when I know I should.  
+Sorry, future-me, I will try to improve and hope not to disappoint you too much.
